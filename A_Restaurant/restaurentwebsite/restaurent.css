@@ -1,0 +1,235 @@
+body{
+    margin: 0;
+}
+
+
+header{
+    width: 100%;
+     position:fixed;
+     background-color: #fff3f3;
+    height: 120px;
+    margin-top: -26px;
+
+}
+#logoimg{
+
+    height: 120px;
+    width: 100px;
+ 
+}
+li{
+    float: left;
+}
+
+
+
+
+a {
+    padding-left: 40px;
+    display: inline-block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    padding-top: 40px;
+    cursor: pointer;
+    border-radius: 22px;
+    margin-top: 6px;
+    padding-top: 12px;
+    height: 35px;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+
+ 
+  
+nav {
+    list-style-type: none;
+    margin-right: 0px;
+    overflow: hidden;
+    background-color: #fff3f3;
+    position: fixed;
+    width: 40%;
+    height: 86px;
+    margin-left: 40%;
+    margin-top: 34px;
+    padding-left: 196px;
+}
+
+.btn {
+    font-size: 29px;
+    margin-left: 117px;
+    padding-top: 7px;
+    margin-top: 8px;
+    color: #12b819;
+    margin-top: 10px;
+}
+a:hover{
+    background-color:rgb(147, 134, 103) ;
+    color:white;
+}
+.btn:hover{
+    background-color: #12b819;
+    color: aliceblue;
+}
+
+.main{
+    width: 100%;
+    height: 700px;
+    background-image: url(https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main2{ 
+    float: left;
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(https://images.unsplash.com/photo-1614277786110-1a64e457c4c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGNoaW5lc2UlMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+
+}
+.button{
+    padding-left: 20px;
+}
+.content {
+    width: 551px;
+    height: 244px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfobZsj0K50pQEbydn11UK2VBm-IYTRZXFw&usqp=CAU);
+    border-radius: 1px 60px;
+    margin-left: 908px;
+    margin-top: 500px;
+    text-align: center;
+    font-size: 23px;
+    color: white;
+  
+    
+   
+    display: block;
+    font-family: cursive;
+    font-weight: 700;
+   
+    border-top: #fff3f3 solid 10px;
+    border-bottom: #fff3f3 solid 10px;
+    
+}
+input {
+    height: 28px;
+    border-radius: 10px;
+    margin-left: 9px;
+    margin-top: -12px;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-chinese-food-pasta-simple-white-banner-image_179324.jpg);
+    color: white;
+}
+
+
+.base2 {
+    width: 200px;
+    height: 543px;
+    background-color: rgb(22, 222, 229);
+    margin-left: 1199px;
+    text-align: center;
+    margin-top: 332px;
+    border-radius: 1px 40px;
+    border-bottom: 5px solid;
+}
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+
+    
+}
+th{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+td {
+    font-size: 15px;
+    font-family: system-ui;
+    padding-top: 25px;
+    color: white;
+}
+footer{
+    margin-top: 550px;
+    width: 100%;
+    height: 1200px;
+    background-image: url(https://images.pexels.com/photos/1907227/pexels-photo-1907227.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+   
+}
+.base1 {
+    float: left;
+    width: 200px;
+    /* opacity: 90%; */
+    height: 400px;
+    background-color: cadetblue;
+    margin-left: 958px;
+    margin-top: 334px;
+    text-align: center;
+    border-radius: 4px 40px;
+    border-bottom: 13px solid white;
+    border-top: 10px solid white;
+}
+.base2 {
+    float: left;
+    width: 200px;
+    /* opacity: 90%; */
+    height: 400px;
+    background-color: cadetblue;
+    margin-left: 655px;
+    margin-top: -424px;
+    text-align: center;
+    border-radius: 4px 40px;
+    border-bottom: 13px solid white;
+    border-top: 10px solid white;
+}.base3 {
+    float: left;
+    width: 200px;
+    opacity: 90%;
+    height: 400px;
+    background-color: cadetblue;
+    margin-left: 1250px;
+    margin-top: -424px;
+    text-align: center;
+    border-radius: 4px 40px;
+    border-bottom: 13px solid white;
+    border-top: 10px solid white;
+}
+.hori1{
+    width: 50%;
+    height: 20px;
+    background-color: darkgray;
+}
+.hori2{
+    width: 580px;
+    height: 7px;
+    background-color: darkgray;
+    margin-top: 20px
+} 
+.cook {
+    float: left;
+    width: 500px;
+    height: 201px;
+    margin-top: -278px;
+    color: whitesmoke;
+    text-align: left;
+    font-family: ui-monospace;
+    margin-left: 87px;
+    margin-top: -435px;
+}
+span{
+    font-size: 60px;
+
+}
+.cookhead{
+    font-size: 52px;
+    font-weight: bold;
+}
+.don{
+    width: 100%;
+    height: 1000px;
+    background-color: azure;
+}
